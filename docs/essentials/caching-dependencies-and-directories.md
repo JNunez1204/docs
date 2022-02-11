@@ -78,7 +78,7 @@ $ cache store
 Uploading 'vendor/bundle' with cache key 'gems-your-branch-33a6002a37f59b6f1841636085a22fbc'...
 Upload complete.
 
-* Detected package-lock.json.
+* Detected package-lock.json.s
 * Using default cache path 'node_modules'.
 Uploading 'node_modules' with cache key 'node-modules-your-branch-d17b3d82f1356d0c91469804e2fc320a'...
 Upload complete.
